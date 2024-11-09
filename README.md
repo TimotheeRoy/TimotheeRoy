@@ -1,5 +1,4 @@
-# TIMOTHÉE ROY - WEB DEVELOPER 
-## Looking for an apprenticeship from july 2024
+# TIMOTHÉE ROY - BACK-END DEVELOPER 
 
   <img align="left" width="312px" height="150px" margin-right="10px" src="https://github.com/TimotheeRoy/TimotheeRoy/assets/146728540/03b85aa2-88cc-46eb-8f97-1270b28cf4db" alt="gif from Star Wars 3">
   <br> <br> 
